@@ -12,3 +12,7 @@ On RHEL7 VM Customization is not supported (Confirmed by VMWARE)
 On Windows Customization is working
 
 Please let me know if there is any mistake,  I will be more than happy to help you
+
+Give a try and share your feedback
+
+Happy Scripting
